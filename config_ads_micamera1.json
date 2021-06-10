@@ -1,0 +1,65 @@
+{
+  "AppConfig": {
+    "APP_NAME": "Mi 10 Camera",
+    "PKG_NAME": "com.redmi8.mix.camera.for.xiaomi.mi10",
+    "VER_CODE": 8,
+    "VER_NAME": "1.2.8",
+    "COMPULSORY": 0,
+    "ADS_TYPE": 1,
+    "ADS_ENABLE": 1,
+    "FIRST_SHOW": 3,
+    "NEXT_SHOW": 8,
+    "ABOUT1": "- App Pro",
+    "ABOUT2": "- No Ads",
+    "ABOUT3": "- Free Function"
+  },
+  "NotiInfo": {
+    "STATUS": 1,
+    "HOUR": "11",
+    "MINUTE": "0",
+    "TITLE": "❤Have a nice day!!",
+    "CONTENT": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
+  "Admob": {
+    "APP_ID": "ca-app-pub-5026270687123701~8799821032",
+    "AD_UNIT": {
+      "FULL_MAIN": "ca-app-pub-5026270687123701/1818924142",
+      "FULL_GALLERY": "ca-app-pub-5026270687123701/2748862435",
+      "FULL_SETTING": "ca-app-pub-5026270687123701/6086322272",
+      "FULL_GIFT": "ca-app-pub-5026270687123701/6496535754",
+      "FULL_CAMERA": "ca-app-pub-5026270687123701/5183454083",
+      "FULL_EXIT": "ca-app-pub-5026270687123701/8176448933",
+      "FULL_EDIT": "ca-app-pub-5026270687123701/5894750584",
+      "FULL_SHARE": "ca-app-pub-5026270687123701/1955505573",
+      "BANNER_GALLERY": "ca-app-pub-5026270687123701/6304964068",
+      "BANNER_SHOW": "ca-app-pub-5026270687123701/4390097225",
+      "BANNER_SETTING": "ca-app-pub-5026270687123701/1763933883",
+      "BANNER_EDIT": "ca-app-pub-5026270687123701/7426474043",
+      "NATIVE_MAIN": "ca-app-pub-5026270687123701/5249609095",
+      "NATIVE_SHARE": "ca-app-pub-5026270687123701/5440841475",
+      "NATIVE_EXIT": "ca-app-pub-5026270687123701/7056401706"
+    }
+  },
+  "AppMoreInfo": [
+    {
+      "APPMORE_NAME": "Mi 11 Camera",
+      "PKG_NAME": "com.redmi.camera.for.xiaomi.mi11",
+      "URL_ICON": "https://bit.ly/2YVJkOZ",
+      "URL_COVER": "https://bit.ly/3q2DB60",
+      "SHORT_DES": "Mi 11 Camera BEST PROFESSIONAL and FREE camera for MIUI 12 with many features",
+      "DOWNLOAD": "50K+",
+      "RATING": "4.9",
+      "SIZE": "29MB"
+    },
+    {
+      "APPMORE_NAME": "Camera for iPhone 12",
+      "PKG_NAME": "com.ultra.iphone12.camera.ios14.icamera",
+      "URL_ICON": "https://bit.ly/3gS5Wr3",
+      "URL_COVER": "https://bit.ly/31NNJVe",
+      "SHORT_DES": "iCamera is inspired by iOS14 Camera with many cool feature like iphone 12 camera",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "30MB"
+    }
+  ]
+}
