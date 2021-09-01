@@ -42,14 +42,14 @@
   },
   "AppMoreInfo": [
     {
-      "APPMORE_NAME": "Mi 11 Camera",
-      "PKG_NAME": "com.redmi.camera.for.xiaomi.mi11",
-      "URL_ICON": "https://bit.ly/2YVJkOZ",
-      "URL_COVER": "https://bit.ly/3q2DB60",
-      "SHORT_DES": "Mi 11 Camera BEST PROFESSIONAL and FREE camera for MIUI 12 with many features",
-      "DOWNLOAD": "50K+",
-      "RATING": "4.9",
-      "SIZE": "29MB"
+      "APPMORE_NAME": "iPhone 13 Camera",
+      "PKG_NAME": "com.senju.ios.camera.iphone.icamera",
+      "URL_ICON": "https://bit.ly/38r6vpe",
+      "URL_COVER": "https://bit.ly/38wmWAy",
+      "SHORT_DES": "Camera for iPhone 13 – Beauty Selfie Camera with cool features, filter & sticker",
+      "DOWNLOAD": "1M+",
+      "RATING": "4.8",
+      "SIZE": "25MB"
     },
     {
       "APPMORE_NAME": "Camera for iPhone 12",
